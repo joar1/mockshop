@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mockshop/static/css/main.7e9dce29.css",
-    "main.js": "/mockshop/static/js/main.c7ceed85.js",
+    "main.js": "/mockshop/static/js/main.5b901cb0.js",
     "index.html": "/mockshop/index.html",
     "main.7e9dce29.css.map": "/mockshop/static/css/main.7e9dce29.css.map",
-    "main.c7ceed85.js.map": "/mockshop/static/js/main.c7ceed85.js.map"
+    "main.5b901cb0.js.map": "/mockshop/static/js/main.5b901cb0.js.map"
   },
   "entrypoints": [
     "static/css/main.7e9dce29.css",
-    "static/js/main.c7ceed85.js"
+    "static/js/main.5b901cb0.js"
   ]
 }
